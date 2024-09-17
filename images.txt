@@ -1,4 +1,1 @@
-chainguard/zig
-openjdk
-hello-world
-openjdk:8u92-jdk-alpine
+kasmweb/brave
