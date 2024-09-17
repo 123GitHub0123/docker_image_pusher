@@ -1,4 +1,3 @@
-zig
-openjdk
-hello-world
-openjdk:8u92-jdk-alpine
+circleci/android
+dockurr/windows
+dockurr/macos
