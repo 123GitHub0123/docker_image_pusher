@@ -1,3 +1,2 @@
-circleci/android
 dockurr/windows
 dockurr/macos
