@@ -1,1 +1,1 @@
-kasmweb/brave:1.14.0-rolling
+gitlab/gitlab-ee
